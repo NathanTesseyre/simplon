@@ -12,6 +12,7 @@ statut: actif
 - [[fiche_auth_sessions]] — cookies, JWT, sessions, MFA
 - [[fiche_droits_autorisations]] — RBAC, ABAC, ACL, Keycloak, Auth0
 - [[fiche_stockage_donnees]] — hashage, chiffrement, gestion des secrets
+- [[fiche_securite_systeme]] — firewall, fail2ban, hardening SSH, TLS
 
 ---
 **Lien avec l'audit →** [[2_Audit_de_Securite]]  

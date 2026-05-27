@@ -20,6 +20,7 @@ statut: actif
 - [[gestion_paquets]] — apt, dpkg, sources
 - [[services_demarrage]] — systemd, systemctl
 - [[reseau_linux]] — ip, ss, netstat, curl, ssh
+- [[ssh_avance]] — config, clés, jump host, tunnels
 - [[logs_supervision]] — journald, tail, grep
 - [[outils_dev]] — vim, tmux, make, env
 - [[shell_scripting]] — bash, variables, conditions, boucles
@@ -42,6 +43,10 @@ statut: actif
 
 ## Kubernetes
 - [[kubernetes_fondamentaux]] — pods, deployments, services, kubectl
+
+## Cloud
+- [[cloud_aws_fondamentaux]] — EC2, S3, VPC, IAM, CLI AWS
+- [[cloud_virtualisation]] — IaaS, PaaS, SaaS
 
 ## Hébergement
 - [[Hosting]] — mutualisé, VPS, dédié, cloud
