@@ -10,7 +10,7 @@ domaine: Linux
 statut: actif
 liens_connexes:
   - [[commandes_base]]
-  - [[Exercices_Scripts_Linux]]
+  - [[sauvegarde_restauration]]
   - [[services_demarrage]]
 ---
 
