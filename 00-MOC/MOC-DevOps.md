@@ -22,7 +22,6 @@ statut: actif
 ## Tests
 - [[tests_unitaires]] — vitest, jest, TDD
 - [[tests_integrations]] — tests API, base de données
-- [[exercices_tests_unitaires]] — exercices pratiques
 - [[README-tests-integration]] — guide intégration
 
 ## Terraform & Déploiement

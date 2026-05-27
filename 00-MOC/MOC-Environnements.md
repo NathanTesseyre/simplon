@@ -23,13 +23,8 @@ statut: actif
 - [[logs_supervision]] — journald, tail, grep
 - [[outils_dev]] — vim, tmux, make, env
 - [[shell_scripting]] — bash, variables, conditions, boucles
-- [[cas_pratiques]] — scénarios réels
-
-### Exercices
-- [[fiche_exercices_recap_linux]] — révision complète
-- [[Exercices_Scripts_Linux]] — scripts bash
-- [[fiche_theorique_grep_find]] + [[fiche_exercices_grep_find]]
-- [[fiche_theorique_permissions_base]] + [[fiche_exercices_permissions_base]]
+- [[fiche_theorique_grep_find]] — grep, find, expressions régulières
+- [[fiche_theorique_permissions_base]] — chmod, chown, umask
 
 ## Virtualisation
 - [[intro_virtualisation]] — principes, hyperviseurs type 1/2
@@ -43,7 +38,6 @@ statut: actif
 - [[Dockerfile]] — instructions, best practices
 - [[commandes_docker]] — run, build, ps, network, volume
 - [[fiche_docker_pas_a_pas]] — guide progressif
-- [[exercices_docker]] — TPs pratiques
 
 ## Hébergement
 - [[Hosting]] — mutualisé, VPS, dédié, cloud
