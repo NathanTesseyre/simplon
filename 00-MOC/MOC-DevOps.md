@@ -24,6 +24,9 @@ statut: actif
 - [[tests_integrations]] — tests API, base de données
 - [[README-tests-integration]] — guide intégration
 
+## Monitoring
+- [[monitoring_prometheus_grafana]] — Prometheus, Grafana, Alertmanager, exporters
+
 ## Ansible
 - [[ansible_fondamentaux]] — inventory, playbooks, modules, roles, Vault
 

@@ -26,6 +26,7 @@ statut: actif
 - [[shell_scripting]] — bash, variables, conditions, boucles
 - [[fiche_theorique_grep_find]] — grep, find, expressions régulières
 - [[fiche_theorique_permissions_base]] — chmod, chown, umask
+- [[sauvegarde_restauration]] — rsync, pg_dump, cron, règle 3-2-1
 
 ## Virtualisation
 - [[intro_virtualisation]] — principes, hyperviseurs type 1/2
