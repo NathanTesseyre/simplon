@@ -1,3 +1,19 @@
+---
+title: "Linting JavaScript — ESLint"
+tags:
+  - eslint
+  - qualité
+  - javascript
+  - ci-cd
+section: 05-DevOps
+domaine: CI/CD
+statut: actif
+liens_connexes:
+  - [[01_initialisation_environnement]]
+  - [[sonarqube-jenkins-node-doc]]
+  - [[tests_unitaires]]
+---
+
 # 🧹 Linting (ESLint)
 
 Ce guide explique comment ajouter et configurer **ESLint** à ton projet TaskBoard pour garantir une qualité de code homogène et détecter les erreurs courantes.

@@ -1,3 +1,21 @@
+---
+title: "Configurations d’un serveur web"
+tags:
+  - nginx
+  - apache
+  - serveur-web
+  - reverse-proxy
+section: 04-Environnements
+domaine: Hébergement
+statut: actif
+liens_connexes:
+  - [[fiche_serveurs_web]]
+  - [[nginx-guide]]
+  - [[Hosting]]
+  - [[fiche_securite_systeme]]
+  - [[docker_compose]]
+---
+
 # 📘 Fiche détaillée – Rôles et configurations possibles d’un serveur web
 
 Un serveur web moderne (Nginx, Apache, Caddy, Traefik, Envoy…) peut remplir différents **rôles** en fonction de la configuration. Voici une synthèse des principaux modes.

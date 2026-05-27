@@ -1,3 +1,19 @@
+---
+title: "grep et find — Référence"
+tags:
+  - linux
+  - grep
+  - find
+  - outils
+section: 04-Environnements
+domaine: Linux
+statut: actif
+liens_connexes:
+  - [[commandes_base]]
+  - [[shell_scripting]]
+  - [[fiche_theorique_permissions_base]]
+---
+
 # Fiche théorique – grep & find (options nécessaires)
 
 ## Rappel `echo -e` et alternative portable

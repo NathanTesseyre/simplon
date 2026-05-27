@@ -1,3 +1,19 @@
+---
+title: "CI/CD — Jenkins avec agent Docker"
+tags:
+  - jenkins
+  - docker
+  - ci-cd
+section: 05-DevOps
+domaine: CI/CD
+statut: actif
+liens_connexes:
+  - [[02_setup_gitea_jenkins]]
+  - [[Docker]]
+  - [[docker_compose]]
+  - [[sonarqube-jenkins-node-doc]]
+---
+
 # 🧩 Jenkins local avec agent Docker
 
 Ce guide explique comment installer **Jenkins dans Docker** et lui connecter un **agent Docker** (pour exécuter des builds, tests, ou des commandes `docker build`, etc.).

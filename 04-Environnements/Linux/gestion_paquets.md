@@ -9,6 +9,9 @@ domaine: Linux
 statut: actif
 liens_connexes:
   - [[intro_linux]]
+  - [[services_demarrage]]
+  - [[shell_scripting]]
+  - [[fiche_securite_systeme]]
 ---
 
 # 📘 Fiche : Gestion des paquets

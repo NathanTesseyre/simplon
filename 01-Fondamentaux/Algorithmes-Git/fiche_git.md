@@ -116,9 +116,9 @@ git push origin nouvelle-fonction
 ## 7. 🌟 Bonnes pratiques Git  
 - Faire des commits **petits et clairs** (un commit = une idée).  
 - Écrire des **messages explicites** → “Fix bug X” est mieux que “changement”.  
-- Toujours **travailler dans une branche**, jamais directement sur `main`.  
+- Toujours **travailler dans une branche**, jamais directement sur `main` → [[trunk-based-development]].  
 - Mettre à jour sa branche régulièrement (`git pull`) pour éviter les conflits.  
-- Utiliser des **tags** pour marquer les versions stables.  
+- Utiliser des **tags** pour marquer les versions stables → [[semantic-release-and-versionning]].  
 
 ---
 

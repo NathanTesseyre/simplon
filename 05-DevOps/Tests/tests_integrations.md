@@ -9,7 +9,9 @@ domaine: Tests
 statut: actif
 liens_connexes:
   - [[tests_unitaires]]
-  - [[Projet_TaskBoard]]
+  - [[README-tests-integration]]
+  - [[docker_compose]]
+  - [[fiche_database]]
 ---
 
 # 🧪 Tests d’Intégration

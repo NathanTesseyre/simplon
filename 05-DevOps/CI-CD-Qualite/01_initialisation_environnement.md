@@ -1,3 +1,20 @@
+---
+title: "CI/CD — Initialisation de l’environnement TaskBoard"
+tags:
+  - ci-cd
+  - nodejs
+  - docker
+  - postgresql
+section: 05-DevOps
+domaine: CI/CD
+statut: actif
+liens_connexes:
+  - [[02_setup_gitea_jenkins]]
+  - [[Docker]]
+  - [[docker_compose]]
+  - [[fiche_git]]
+---
+
 # 🚀 Étape 1 — Initialisation de l’Environnement pour **TaskBoard**
 
 ## 🎯 Objectif

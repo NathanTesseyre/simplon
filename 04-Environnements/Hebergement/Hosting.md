@@ -1,3 +1,25 @@
+---
+title: "Hébergement web"
+tags:
+  - hébergement
+  - vps
+  - cloud
+  - déploiement
+section: 04-Environnements
+domaine: Hébergement
+statut: actif
+liens_connexes:
+  - [[All-kinds-of-web-server-configs]]
+  - [[fiche_serveurs_web]]
+  - [[Docker]]
+  - [[docker_compose]]
+  - [[ssh_avance]]
+  - [[fiche_securite_systeme]]
+  - [[ansible_fondamentaux]]
+  - [[terraform_fondamentaux]]
+  - [[cloud_aws_fondamentaux]]
+---
+
 # Hosting
 
 ## Types d’hébergement : lequel choisir ?
@@ -24,7 +46,7 @@ En formation, privilégiez un VPS ou un hébergement cloud gratuit/freemium (com
 
 ### Accès et contrôle
 
-* **SSH** : Indispensable pour administrer votre serveur.  
+* **[[ssh_avance|SSH]]** : Indispensable pour administrer votre serveur.  
 * **Root/Sudo** : Nécessaire pour installer des logiciels (Nginx, Docker, etc.).  
 * **Panneau de contrôle** : cPanel/Plesk (mutualisé) vs ligne de commande (VPS/cloud).
 
@@ -36,9 +58,9 @@ En formation, privilégiez un VPS ou un hébergement cloud gratuit/freemium (com
 
 ### Sécurité
 
-* **Certificats SSL** : Let’s Encrypt (gratuit) doit être facile à installer.  
+* **Certificats SSL** : Let’s Encrypt (gratuit) → [[fiche_securite_systeme]].  
 * **Sauvegardes** : Automatiques et restaurables.  
-* **Pare-feu** : Configurable (UFW, iptables).
+* **Pare-feu** : Configurable (UFW, iptables) → [[fiche_securite_systeme]].
 
 ### Support
 
@@ -79,8 +101,8 @@ En formation, privilégiez un VPS ou un hébergement cloud gratuit/freemium (com
 
 ### B. Automatisation
 
-* **Scripts de déploiement** : Bash, Ansible, ou outils comme Deployer.
-* **CI/CD** : GitHub Actions, GitLab CI pour automatiser tests et déploiement.
+* **Scripts de déploiement** : [[shell_scripting|Bash]], [[ansible_fondamentaux|Ansible]], ou outils comme Deployer.
+* **CI/CD** : GitHub Actions, GitLab CI → [[02_setup_gitea_jenkins]].
 
 ### C. Surveillance
 
@@ -101,7 +123,7 @@ En formation, privilégiez un VPS ou un hébergement cloud gratuit/freemium (com
 
 | Outil | Utilité | Lien |
 | ----- | ----- | ----- |
-| **Docker** | Conteneurisation des applications. | [docker.com](https://www.docker.com) |
+| **[[Docker]]** | Conteneurisation des applications. | [docker.com](https://www.docker.com) |
 | **PM2** | Gestionnaire de processus Node.js. | [pm2.io](https://pm2.io) |
 | **Certbot** | Générer des certificats SSL Let’s Encrypt. | [certbot.eff.org](https://certbot.eff.org) |
 | **NGINX Proxy Manager** | Gérer plusieurs sites/hôtes facilement. | [github.com](https://github.com/NginxProxyManager/nginx-proxy-manager) |

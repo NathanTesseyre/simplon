@@ -1,3 +1,21 @@
+---
+title: "SonarQube + Jenkins — Analyse qualité"
+tags:
+  - sonarqube
+  - jenkins
+  - qualité
+  - ci-cd
+section: 05-DevOps
+domaine: CI/CD
+statut: actif
+liens_connexes:
+  - [[02_setup_gitea_jenkins]]
+  - [[03_setup_jenkins_docker_agent]]
+  - [[Docker]]
+  - [[tests_unitaires]]
+  - [[tests_integrations]]
+---
+
 # Setup SonarQube + Intégration Jenkins (Node.js + Vitest + Testcontainers)
 
 Ce guide **simple et prêt à l’emploi** couvre :

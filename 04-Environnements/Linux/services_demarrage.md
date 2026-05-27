@@ -12,6 +12,8 @@ statut: actif
 liens_connexes:
   - [[gestion_processus]]
   - [[logs_supervision]]
+  - [[fiche_securite_systeme]]
+  - [[gestion_paquets]]
 ---
 
 # 📘 Services & démarrage (systemd)

@@ -1,3 +1,20 @@
+---
+title: "Tests d’intégration — Vitest + Testcontainers"
+tags:
+  - tests
+  - intégration
+  - vitest
+  - docker
+section: 05-DevOps
+domaine: Tests
+statut: actif
+liens_connexes:
+  - [[tests_integrations]]
+  - [[tests_unitaires]]
+  - [[Docker]]
+  - [[docker_compose]]
+---
+
 # Mise en place des tests d’intégration avec Vitest + Testcontainers
 
 Ce guide documente la migration depuis un projet **sans tests d’intégration** vers une configuration complète, maintenable et automatisée basée sur :

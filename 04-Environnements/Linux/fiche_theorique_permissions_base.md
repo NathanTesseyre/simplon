@@ -1,3 +1,18 @@
+---
+title: "Permissions Linux — Bases"
+tags:
+  - linux
+  - permissions
+  - sécurité
+section: 04-Environnements
+domaine: Linux
+statut: actif
+liens_connexes:
+  - [[utilisateurs_permissions]]
+  - [[systeme_fichiers]]
+  - [[fiche_theorique_grep_find]]
+---
+
 # 📘 Fiche théorique — Permissions de base (Linux)
 
 > Portée : **notions de base uniquement**. Pas de liens symboliques, pas d’ACL, pas de bits spéciaux (setuid/setgid/sticky).

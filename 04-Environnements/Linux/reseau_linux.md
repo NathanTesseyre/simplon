@@ -14,6 +14,8 @@ liens_connexes:
   - [[fiche_reseaux]]
   - [[commandes_base]]
   - [[services_demarrage]]
+  - [[ssh_avance]]
+  - [[fiche_securite_systeme]]
 ---
 
 # 📘 Réseau sous Linux

@@ -1,3 +1,28 @@
+---
+title: "Composants d’un backend moderne"
+tags:
+  - backend
+  - architecture
+  - api
+  - base-de-données
+section: 02-Architecture-Composants
+domaine: Composants
+statut: actif
+liens_connexes:
+  - [[fiche_backend]]
+  - [[fiche_api]]
+  - [[fiche_database]]
+  - [[fiche_architecture_systemes]]
+  - [[fiche_auth_sessions]]
+  - [[fiche_securite_dev]]
+  - [[fiche_stockage_donnees]]
+  - [[fiche_droits_autorisations]]
+  - [[kubernetes_fondamentaux]]
+  - [[Docker]]
+  - [[tests_unitaires]]
+  - [[tests_integrations]]
+---
+
 # ⚙️ Fiche détaillée — Composants d’un backend moderne
 
 Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un backend, avec leurs rôles, options technologiques, bonnes pratiques et pièges courants.
@@ -26,7 +51,7 @@ Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un 
 
 ---
 
-## 2) Interface réseau & API
+## 2) Interface réseau & API → [[fiche_api]]
 **Rôle** : protocole et contrat d’échange avec les clients.
 
 **Styles**  
@@ -47,7 +72,7 @@ Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un 
 
 ---
 
-## 3) Stockage persistant (bases de données)
+## 3) Stockage persistant (bases de données) → [[fiche_database]]
 **Rôle** : conserver l’état de l’application.
 
 **Types**  
@@ -102,13 +127,13 @@ Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un 
 
 ---
 
-## 6) Authentification, Autorisation & Sécurité
+## 6) Authentification, Autorisation & Sécurité → [[fiche_auth_sessions]] · [[fiche_droits_autorisations]] · [[fiche_securite_dev]]
 **Rôle** : prouver l’identité et contrôler l’accès.
 
 **Mécanismes**  
 - **Auth** : sessions (cookies + SameSite), **JWT** (exp court + rotation), OAuth2/OIDC (PKCE), API keys.  
 - **Authorization** : RBAC/ABAC, policies (OPA/Styra, Casbin).  
-- **Sécurité** : TLS obligatoire, hashing des mots de passe (bcrypt/argon2), rate limiting, validation d’input, entêtes sécurité (CSP, HSTS).
+- **Sécurité** : TLS obligatoire, hashing des mots de passe (bcrypt/argon2) → [[fiche_stockage_donnees]], rate limiting, validation d’input, entêtes sécurité (CSP, HSTS).
 
 **Pièges**  
 - JWT trop longs/éternels (pas de rotation / revoke).  
@@ -133,7 +158,7 @@ Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un 
 
 ---
 
-## 8) Observabilité (logs, métriques, traces)
+## 8) Observabilité (logs, métriques, traces) → [[logs_supervision]]
 **Rôle** : diagnostiquer, surveiller, alerter.
 
 **Piliers**  
@@ -148,13 +173,13 @@ Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un 
 
 ---
 
-## 9) Orchestration, déploiement & mise à l’échelle
+## 9) Orchestration, déploiement & mise à l’échelle → [[Docker]] · [[kubernetes_fondamentaux]]
 **Rôle** : faire tourner et scaler les composants en prod.
 
 **Composants**  
-- **Reverse proxy / LB** : Nginx, HAProxy, Envoy.  
-- **Orchestration** : Docker, Kubernetes (Deployments, Services, Ingress).  
-- **CI/CD** : pipelines build/test/deploy, blue/green, canary.  
+- **Reverse proxy / LB** : Nginx → [[fiche_serveurs_web]], HAProxy, Envoy.  
+- **Orchestration** : [[Docker]], [[kubernetes_fondamentaux]] (Deployments, Services, Ingress).  
+- **CI/CD** : pipelines build/test/deploy → [[02_setup_gitea_jenkins]], blue/green, canary.  
 - **Secrets & config** : Vault, KMS, K8s Secrets/ConfigMaps.
 
 **Bonnes pratiques**  

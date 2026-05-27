@@ -13,6 +13,8 @@ liens_connexes:
   - [[services_demarrage]]
   - [[sonarqube-jenkins-node-doc]]
   - [[gestion_processus]]
+  - [[fiche_theorique_grep_find]]
+  - [[fiche_securite_systeme]]
 ---
 
 # 📘 Logs & supervision

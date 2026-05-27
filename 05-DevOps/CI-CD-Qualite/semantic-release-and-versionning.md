@@ -9,6 +9,8 @@ domaine: CI/CD
 statut: actif
 liens_connexes:
   - [[trunk-based-development]]
+  - [[fiche_git]]
+  - [[02_setup_gitea_jenkins]]
 ---
 
 # 🏷️ Versionning, SemVer, Conventional Commits & Release Automatique

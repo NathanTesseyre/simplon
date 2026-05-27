@@ -9,6 +9,8 @@ domaine: Algorithmes
 statut: actif
 liens_connexes:
   - [[fiche_git]]
+  - [[fiche_processus_threads]]
+  - [[fiche_gestion_memoire]]
 ---
 
 # 📘 Fiche : Introduction aux algorithmes  

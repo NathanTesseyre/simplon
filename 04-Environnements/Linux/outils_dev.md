@@ -1,3 +1,19 @@
+---
+title: "Outils développeur sous Linux"
+tags:
+  - linux
+  - outils
+  - développement
+section: 04-Environnements
+domaine: Linux
+statut: actif
+liens_connexes:
+  - [[commandes_base]]
+  - [[fiche_git]]
+  - [[ssh_avance]]
+  - [[shell_scripting]]
+---
+
 # 📘 Fiche : Outils développeur sous Linux
 
 **Sommaire**
@@ -20,7 +36,7 @@ gdb app
 ```
 
 <a id="dev-git"></a>
-## Git
+## Git → [[fiche_git]]
 ```bash
 git init && git add . && git commit -m "init"
 git branch -M main && git remote add origin <url>
@@ -54,7 +70,7 @@ nvm install --lts && nvm use --lts
 ```
 
 <a id="dev-ssh"></a>
-## SSH & synchronisation
+## SSH & synchronisation → [[ssh_avance]]
 ```bash
 ssh user@serveur -p 22
 scp fichier user@serveur:/tmp/
