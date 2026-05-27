@@ -9,7 +9,6 @@ section: 05-DevOps
 domaine: Terraform
 statut: actif
 liens_connexes:
-  - [[terraform_virtualbox_ova_vs_vdi]]
   - [[fiche_architecture_infra]]
   - [[cloud_virtualisation]]
 ---

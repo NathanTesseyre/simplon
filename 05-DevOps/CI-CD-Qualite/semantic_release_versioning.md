@@ -8,7 +8,7 @@ section: 05-DevOps
 domaine: CI/CD
 statut: actif
 liens_connexes:
-  - [[trunk-based-development]]
+  - [[trunk_based_development]]
   - [[fiche_git]]
   - [[02_setup_gitea_jenkins]]
 ---

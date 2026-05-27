@@ -8,7 +8,7 @@ section: 04-Environnements
 domaine: Docker
 statut: actif
 liens_connexes:
-  - [[Dockerfile]]
+  - [[dockerfile]]
   - [[commandes_docker]]
   - [[vm_vs_conteneurs]]
 ---

@@ -36,8 +36,8 @@ statut: actif
 - [[usages_limites]] — quand utiliser quoi
 
 ## Docker
-- [[Docker]] — concepts, workflow
-- [[Dockerfile]] — instructions, best practices
+- [[docker_fondamentaux]] — concepts, workflow
+- [[dockerfile]] — instructions, best practices
 - [[commandes_docker]] — run, build, ps, network, volume
 - [[docker_compose]] — stack multi-conteneurs, volumes, réseaux
 - [[container_registry]] — Docker Hub, ECR, GitLab Registry, push/pull
@@ -53,8 +53,8 @@ statut: actif
 - [[cloud_virtualisation]] — IaaS, PaaS, SaaS
 
 ## Hébergement
-- [[Hosting]] — mutualisé, VPS, dédié, cloud
-- [[All-kinds-of-web-server-configs]] — configurations serveur
+- [[hebergement]] — mutualisé, VPS, dédié, cloud
+- [[web_server_configs]] — configurations serveur
 
 ---
 **Suite naturelle →** [[MOC-DevOps]]

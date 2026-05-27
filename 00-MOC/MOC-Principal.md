@@ -37,4 +37,4 @@ Fondamentaux → Architecture → Sécurité → Environnements → DevOps
 - [[fiche_git]] ← indispensable avant tout
 - [[fiche_reseaux]] ← base pour comprendre le reste
 - [[vm_vs_conteneurs]] ← pont entre Virtualisation et Docker
-- [[trunk-based-development]] ← stratégie de branches
+- [[trunk_based_development]] ← stratégie de branches

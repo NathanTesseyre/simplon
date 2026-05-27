@@ -9,7 +9,7 @@ section: 04-Environnements
 domaine: Virtualisation
 statut: actif
 liens_connexes:
-  - [[Docker]]
+  - [[docker_fondamentaux]]
   - [[hyperviseurs]]
   - [[usages_limites]]
 ---
@@ -154,4 +154,4 @@ Sans ces deux mécanismes, Docker n'existerait pas. Ce sont des fonctionnalités
 - En production : souvent les deux — conteneurs dans des VMs
 - Choisir selon le besoin : sécurité maximale → VM ; scalabilité et rapidité → conteneurs
 
-**Lire ensuite →** [[Docker]] pour la prise en main pratique des conteneurs.
+**Lire ensuite →** [[docker_fondamentaux]] pour la prise en main pratique des conteneurs.

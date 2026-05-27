@@ -15,16 +15,16 @@ statut: actif
 - [[01_initialisation_environnement]] — setup de l'environnement local
 - [[02_setup_gitea_jenkins]] — Gitea + Jenkins
 - [[03_setup_jenkins_docker_agent]] — agent Docker pour Jenkins
-- [[trunk-based-development]] — stratégie de branches
-- [[semantic-release-and-versionning]] — semver, changelog auto
-- [[nginx-guide]] — configuration Nginx en prod
-- [[README_ESLint]] — linting JavaScript
+- [[trunk_based_development]] — stratégie de branches
+- [[semantic_release_versioning]] — semver, changelog auto
+- [[nginx_guide]] — configuration Nginx en prod
+- [[eslint_guide]] — linting JavaScript
 - [[sonarqube-jenkins-node-doc]] — analyse qualité SonarQube
 
 ## Tests
 - [[tests_unitaires]] — vitest, jest, TDD
 - [[tests_integrations]] — tests API, base de données
-- [[README-tests-integration]] — guide intégration
+- [[tests_integration_guide]] — guide intégration
 
 ## Monitoring
 - [[monitoring_prometheus_grafana]] — Prometheus, Grafana, Alertmanager, exporters
@@ -35,8 +35,5 @@ statut: actif
 
 ## Terraform & Déploiement
 - [[terraform_fondamentaux]] — providers, resources, state, workflow
-
-## Projet fil rouge — TaskBoard
-- [[Projet_TaskBoard]] — vue d'ensemble du projet
 
 ---

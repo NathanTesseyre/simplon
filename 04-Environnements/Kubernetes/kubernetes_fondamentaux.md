@@ -9,7 +9,7 @@ section: 04-Environnements
 domaine: Kubernetes
 statut: actif
 liens_connexes:
-  - [[Docker]]
+  - [[docker_fondamentaux]]
   - [[docker_compose]]
   - [[vm_vs_conteneurs]]
 ---

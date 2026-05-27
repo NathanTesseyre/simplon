@@ -12,7 +12,7 @@ liens_connexes:
   - [[fiche_frontend]]
   - [[fiche_api]]
   - [[fiche_database]]
-  - [[fiche-composants-backend]]
+  - [[fiche_composants_backend]]
 ---
 
 # ⚙️ Fiche Backend

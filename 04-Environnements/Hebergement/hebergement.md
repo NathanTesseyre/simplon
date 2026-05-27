@@ -9,9 +9,9 @@ section: 04-Environnements
 domaine: Hébergement
 statut: actif
 liens_connexes:
-  - [[All-kinds-of-web-server-configs]]
+  - [[web_server_configs]]
   - [[fiche_serveurs_web]]
-  - [[Docker]]
+  - [[docker_fondamentaux]]
   - [[docker_compose]]
   - [[ssh_avance]]
   - [[fiche_securite_systeme]]
@@ -123,7 +123,7 @@ En formation, privilégiez un VPS ou un hébergement cloud gratuit/freemium (com
 
 | Outil | Utilité | Lien |
 | ----- | ----- | ----- |
-| **[[Docker]]** | Conteneurisation des applications. | [docker.com](https://www.docker.com) |
+| **[[docker_fondamentaux]]** | Conteneurisation des applications. | [docker.com](https://www.docker.com) |
 | **PM2** | Gestionnaire de processus Node.js. | [pm2.io](https://pm2.io) |
 | **Certbot** | Générer des certificats SSL Let’s Encrypt. | [certbot.eff.org](https://certbot.eff.org) |
 | **NGINX Proxy Manager** | Gérer plusieurs sites/hôtes facilement. | [github.com](https://github.com/NginxProxyManager/nginx-proxy-manager) |

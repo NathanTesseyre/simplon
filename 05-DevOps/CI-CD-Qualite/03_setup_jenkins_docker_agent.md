@@ -9,7 +9,7 @@ domaine: CI/CD
 statut: actif
 liens_connexes:
   - [[02_setup_gitea_jenkins]]
-  - [[Docker]]
+  - [[docker_fondamentaux]]
   - [[docker_compose]]
   - [[sonarqube-jenkins-node-doc]]
 ---

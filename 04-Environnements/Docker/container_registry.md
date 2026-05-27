@@ -9,8 +9,8 @@ section: 04-Environnements
 domaine: Docker
 statut: actif
 liens_connexes:
-  - [[Docker]]
-  - [[Dockerfile]]
+  - [[docker_fondamentaux]]
+  - [[dockerfile]]
   - [[docker_compose]]
   - [[github_actions]]
   - [[gitlab_ci]]

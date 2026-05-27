@@ -10,7 +10,6 @@ domaine: Sécurité
 statut: actif
 liens_connexes:
   - [[fiche_auth_sessions]]
-  - [[2_Audit_de_Securite]]
 ---
 
 # 📘 Fiche : Sécurité pour développeurs  

@@ -10,8 +10,8 @@ domaine: Hébergement
 statut: actif
 liens_connexes:
   - [[fiche_serveurs_web]]
-  - [[nginx-guide]]
-  - [[Hosting]]
+  - [[nginx_guide]]
+  - [[hebergement]]
   - [[fiche_securite_systeme]]
   - [[docker_compose]]
 ---

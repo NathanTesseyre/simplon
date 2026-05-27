@@ -9,7 +9,7 @@ domaine: Architecture
 statut: actif
 liens_connexes:
   - [[fiche_architecture_infra]]
-  - [[Docker]]
+  - [[docker_fondamentaux]]
 ---
 
 # 📘 Fiche : Architecture des systèmes  

@@ -10,7 +10,6 @@ domaine: Tests
 statut: actif
 liens_connexes:
   - [[tests_integrations]]
-  - [[exercices_tests_unitaires]]
 ---
 
 # 🧪 Fiche pédagogique — Tests Unitaires (TU) — Node.js Débutants

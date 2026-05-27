@@ -10,7 +10,7 @@ domaine: CI/CD
 statut: actif
 liens_connexes:
   - [[gitlab_ci]]
-  - [[trunk-based-development]]
+  - [[trunk_based_development]]
   - [[container_registry]]
   - [[tests_unitaires]]
   - [[fiche_git]]

@@ -10,7 +10,7 @@ domaine: CI/CD
 statut: actif
 liens_connexes:
   - [[fiche_git]]
-  - [[semantic-release-and-versionning]]
+  - [[semantic_release_versioning]]
 ---
 
 # 🚀 Trunk-Based Development (TBD)

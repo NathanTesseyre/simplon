@@ -18,7 +18,7 @@ liens_connexes:
   - [[fiche_stockage_donnees]]
   - [[fiche_droits_autorisations]]
   - [[kubernetes_fondamentaux]]
-  - [[Docker]]
+  - [[docker_fondamentaux]]
   - [[tests_unitaires]]
   - [[tests_integrations]]
 ---
@@ -173,12 +173,12 @@ Cette fiche recense les **composants** qu’on retrouve le plus souvent dans un 
 
 ---
 
-## 9) Orchestration, déploiement & mise à l’échelle → [[Docker]] · [[kubernetes_fondamentaux]]
+## 9) Orchestration, déploiement & mise à l’échelle → [[docker_fondamentaux]] · [[kubernetes_fondamentaux]]
 **Rôle** : faire tourner et scaler les composants en prod.
 
 **Composants**  
 - **Reverse proxy / LB** : Nginx → [[fiche_serveurs_web]], HAProxy, Envoy.  
-- **Orchestration** : [[Docker]], [[kubernetes_fondamentaux]] (Deployments, Services, Ingress).  
+- **Orchestration** : [[docker_fondamentaux]], [[kubernetes_fondamentaux]] (Deployments, Services, Ingress).  
 - **CI/CD** : pipelines build/test/deploy → [[02_setup_gitea_jenkins]], blue/green, canary.  
 - **Secrets & config** : Vault, KMS, K8s Secrets/ConfigMaps.
 

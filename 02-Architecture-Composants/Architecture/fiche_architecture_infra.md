@@ -11,7 +11,7 @@ statut: actif
 liens_connexes:
   - [[fiche_architecture_systemes]]
   - [[intro_virtualisation]]
-  - [[Hosting]]
+  - [[hebergement]]
 ---
 
 # 🖥️ Architecture systèmes / infrastructure — Cours détaillé

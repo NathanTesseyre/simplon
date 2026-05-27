@@ -11,7 +11,7 @@ statut: actif
 liens_connexes:
   - [[github_actions]]
   - [[02_setup_gitea_jenkins]]
-  - [[trunk-based-development]]
+  - [[trunk_based_development]]
   - [[container_registry]]
   - [[tests_unitaires]]
   - [[fiche_git]]

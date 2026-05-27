@@ -12,10 +12,10 @@ section: 02-Architecture-Composants
 domaine: Composants
 statut: actif
 liens_connexes:
-  - [[fiche-composants-frontend]]
-  - [[fiche-deploiement-backend]]
-  - [[nginx-guide]]
-  - [[Docker]]
+  - [[fiche_composants_frontend]]
+  - [[fiche_deploiement_backend]]
+  - [[nginx_guide]]
+  - [[docker_fondamentaux]]
 ---
 
 # 📘 Déploiement frontend selon la technologie
@@ -322,4 +322,4 @@ Le hash dans les noms de fichiers (généré par Vite/webpack) garantit que le n
 - `index.html` sans cache, assets avec hash = cache 1 an
 - CI/CD → build → tests → image Docker → push registry → deploy
 
-**Voir aussi →** [[fiche-composants-frontend]] pour les concepts, [[nginx-guide]] pour configurer Nginx en détail.
+**Voir aussi →** [[fiche_composants_frontend]] pour les concepts, [[nginx_guide]] pour configurer Nginx en détail.

@@ -12,7 +12,7 @@ statut: actif
 liens_connexes:
   - [[fiche_backend]]
   - [[fiche_api]]
-  - [[fiche-composants-frontend]]
+  - [[fiche_composants_frontend]]
 ---
 
 # 🎨 Fiche Frontend

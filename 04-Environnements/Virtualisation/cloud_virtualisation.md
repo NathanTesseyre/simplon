@@ -14,7 +14,7 @@ domaine: Virtualisation
 statut: actif
 liens_connexes:
   - [[fiche_architecture_infra]]
-  - [[Hosting]]
+  - [[hebergement]]
   - [[hyperviseurs]]
   - [[usages_limites]]
 ---
@@ -169,4 +169,4 @@ Un concept clé du cloud lié à la virtualisation :
 - Serverless = functions à la demande, scaling automatique, paiement à l'exécution
 - VPC = ton réseau privé virtuel dans le cloud
 
-**Voir aussi →** [[Hosting]] pour le comparatif hébergement mutualisé / VPS / cloud.
+**Voir aussi →** [[hebergement]] pour le comparatif hébergement mutualisé / VPS / cloud.

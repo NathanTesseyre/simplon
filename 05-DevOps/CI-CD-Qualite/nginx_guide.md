@@ -10,7 +10,7 @@ domaine: CI/CD
 statut: actif
 liens_connexes:
   - [[fiche_serveurs_web]]
-  - [[Hosting]]
+  - [[hebergement]]
 ---
 
 # Déploiement local : Nginx + front statique + API Express (`/api`)

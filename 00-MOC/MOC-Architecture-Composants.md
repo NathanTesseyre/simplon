@@ -22,10 +22,10 @@ statut: actif
 - [[fiche_serveurs_web]] — Nginx, Apache, reverse proxy, load balancer
 
 ## Déploiement
-- [[fiche-composants-frontend]] — build, CDN, déploiement
-- [[fiche-composants-backend]] — déploiement backend
-- [[fiche-deploiement-frontend]] — pipeline frontend
-- [[fiche-deploiement-backend]] — pipeline backend
+- [[fiche_composants_frontend]] — build, CDN, déploiement
+- [[fiche_composants_backend]] — déploiement backend
+- [[fiche_deploiement_frontend]] — pipeline frontend
+- [[fiche_deploiement_backend]] — pipeline backend
 
 ---
 **Suite naturelle →** [[MOC-Securite]]

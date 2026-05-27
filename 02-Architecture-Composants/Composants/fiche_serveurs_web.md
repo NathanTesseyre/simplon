@@ -9,8 +9,8 @@ section: 02-Architecture-Composants
 domaine: Composants
 statut: actif
 liens_connexes:
-  - [[nginx-guide]]
-  - [[Hosting]]
+  - [[nginx_guide]]
+  - [[hebergement]]
   - [[fiche_reseaux]]
 ---
 

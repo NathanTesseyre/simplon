@@ -13,9 +13,9 @@ domaine: Composants
 statut: actif
 liens_connexes:
   - [[fiche_backend]]
-  - [[fiche-deploiement-frontend]]
-  - [[nginx-guide]]
-  - [[Docker]]
+  - [[fiche_deploiement_frontend]]
+  - [[nginx_guide]]
+  - [[docker_fondamentaux]]
   - [[services_demarrage]]
 ---
 
@@ -373,4 +373,4 @@ docker stop mon-api-old && docker rm mon-api-old
 - HTTPS = obligatoire en prod, Certbot/Let's Encrypt est gratuit et automatique
 - CI/CD = tests → build image → push registre → deploy sur serveur
 
-**Voir aussi →** [[nginx-guide]] pour la config Nginx avancée, [[services_demarrage]] pour systemd, [[Docker]] pour les bases Docker.
+**Voir aussi →** [[nginx_guide]] pour la config Nginx avancée, [[services_demarrage]] pour systemd, [[docker_fondamentaux]] pour les bases Docker.

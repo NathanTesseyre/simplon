@@ -9,7 +9,6 @@ domaine: Docker
 statut: actif
 liens_connexes:
   - [[commandes_docker]]
-  - [[exercices_docker]]
 ---
 
 # 🐳 Fiche pas-à-pas – Expériences Docker (commentée)

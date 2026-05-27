@@ -9,8 +9,8 @@ section: 01-Fondamentaux
 domaine: Git
 statut: actif
 liens_connexes:
-  - [[trunk-based-development]]
-  - [[semantic-release-and-versionning]]
+  - [[trunk_based_development]]
+  - [[semantic_release_versioning]]
 ---
 
 # 📘 Fiche : Git et la gestion de versions  
@@ -116,9 +116,9 @@ git push origin nouvelle-fonction
 ## 7. 🌟 Bonnes pratiques Git  
 - Faire des commits **petits et clairs** (un commit = une idée).  
 - Écrire des **messages explicites** → “Fix bug X” est mieux que “changement”.  
-- Toujours **travailler dans une branche**, jamais directement sur `main` → [[trunk-based-development]].  
+- Toujours **travailler dans une branche**, jamais directement sur `main` → [[trunk_based_development]].  
 - Mettre à jour sa branche régulièrement (`git pull`) pour éviter les conflits.  
-- Utiliser des **tags** pour marquer les versions stables → [[semantic-release-and-versionning]].  
+- Utiliser des **tags** pour marquer les versions stables → [[semantic_release_versioning]].  
 
 ---
 

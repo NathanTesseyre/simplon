@@ -12,7 +12,7 @@ domaine: Composants
 statut: actif
 liens_connexes:
   - [[fiche_frontend]]
-  - [[fiche-deploiement-frontend]]
+  - [[fiche_deploiement_frontend]]
   - [[fiche_api]]
 ---
 
@@ -338,4 +338,4 @@ test('login flow', async ({ page }) => {
 - **React Query** = gestion des données serveur avec cache intégré
 - Ne pas stocker de secrets dans le localStorage
 
-**Lire ensuite →** [[fiche-deploiement-frontend]] pour la mise en production.
+**Lire ensuite →** [[fiche_deploiement_frontend]] pour la mise en production.

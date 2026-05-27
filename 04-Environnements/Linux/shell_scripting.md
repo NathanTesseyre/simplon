@@ -250,4 +250,4 @@ crontab -l
 - `$(commande)` pour capturer la sortie d'une commande
 - `2>&1` pour capturer stdout et stderr ensemble
 
-**Voir aussi →** [[Exercices_Scripts_Linux]] pour pratiquer, [[services_demarrage]] pour les timers systemd.
+**Voir aussi →** [[services_demarrage]] pour les timers systemd.
