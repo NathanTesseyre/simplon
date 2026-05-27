@@ -10,6 +10,8 @@ statut: actif
 # 🚀 DevOps — Map of Content
 
 ## CI/CD & Qualité
+- [[github_actions]] — workflows, jobs, secrets, artifacts
+- [[gitlab_ci]] — stages, jobs, variables, Docker-in-Docker
 - [[01_initialisation_environnement]] — setup de l'environnement local
 - [[02_setup_gitea_jenkins]] — Gitea + Jenkins
 - [[03_setup_jenkins_docker_agent]] — agent Docker pour Jenkins
@@ -26,6 +28,7 @@ statut: actif
 
 ## Monitoring
 - [[monitoring_prometheus_grafana]] — Prometheus, Grafana, Alertmanager, exporters
+- [[loki_centralisation_logs]] — Loki, Promtail, LogQL, stack PLG
 
 ## Ansible
 - [[ansible_fondamentaux]] — inventory, playbooks, modules, roles, Vault

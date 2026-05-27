@@ -40,6 +40,7 @@ statut: actif
 - [[Dockerfile]] — instructions, best practices
 - [[commandes_docker]] — run, build, ps, network, volume
 - [[docker_compose]] — stack multi-conteneurs, volumes, réseaux
+- [[container_registry]] — Docker Hub, ECR, GitLab Registry, push/pull
 - [[fiche_docker_pas_a_pas]] — guide progressif
 
 ## Kubernetes
