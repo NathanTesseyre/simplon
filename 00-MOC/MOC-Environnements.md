@@ -40,6 +40,9 @@ statut: actif
 - [[docker_compose]] — stack multi-conteneurs, volumes, réseaux
 - [[fiche_docker_pas_a_pas]] — guide progressif
 
+## Kubernetes
+- [[kubernetes_fondamentaux]] — pods, deployments, services, kubectl
+
 ## Hébergement
 - [[Hosting]] — mutualisé, VPS, dédié, cloud
 - [[All-kinds-of-web-server-configs]] — configurations serveur

@@ -24,6 +24,9 @@ statut: actif
 - [[tests_integrations]] — tests API, base de données
 - [[README-tests-integration]] — guide intégration
 
+## Ansible
+- [[ansible_fondamentaux]] — inventory, playbooks, modules, roles, Vault
+
 ## Terraform & Déploiement
 - [[terraform_fondamentaux]] — providers, resources, state, workflow
 
