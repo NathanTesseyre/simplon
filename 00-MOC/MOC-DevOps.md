@@ -26,10 +26,6 @@ statut: actif
 
 ## Terraform & Déploiement
 - [[terraform_fondamentaux]] — providers, resources, state, workflow
-- [[debian_genericcloud_ssh_password]] — setup VM Debian
-- [[guide_agent_vm_pipeline_clean]] — agent CI dans une VM
-- [[terraform_virtualbox_ova_vs_vdi]] — formats VirtualBox
-- [[partager_image_sous_500mo]] — optimisation d'images
 
 ## Projet fil rouge — TaskBoard
 - [[Projet_TaskBoard]] — vue d'ensemble du projet
