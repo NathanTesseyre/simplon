@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+*.swp
+*~
+
+# Claude Code
+.claude/settings.local.json
