@@ -34,4 +34,3 @@ statut: actif
 - [[Projet_TaskBoard]] — vue d'ensemble du projet
 
 ---
-**Suite naturelle →** [[MOC-Audit]]

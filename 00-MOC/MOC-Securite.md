@@ -15,5 +15,4 @@ statut: actif
 - [[fiche_securite_systeme]] — firewall, fail2ban, hardening SSH, TLS
 
 ---
-**Lien avec l'audit →** [[2_Audit_de_Securite]]  
 **Suite naturelle →** [[MOC-Environnements]]
