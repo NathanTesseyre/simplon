@@ -1,6 +1,6 @@
-# Formation CDA / DevOps — Vault Obsidian
+# Formation Admin Système DevOps Junior — Vault Obsidian
 
-Vault de fiches de cours pour la formation **Concepteur Développeur d'Applications / DevOps** (Simplon Adrar).
+Vault de fiches de cours pour la formation **Admin Système DevOps Junior** (Simplon).
 
 Parcours conseillé :
 ```
