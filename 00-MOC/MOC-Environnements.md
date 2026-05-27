@@ -44,9 +44,11 @@ statut: actif
 
 ## Kubernetes
 - [[kubernetes_fondamentaux]] — pods, deployments, services, kubectl
+- [[helm_fondamentaux]] — charts, releases, values, repositories
 
 ## Cloud
 - [[cloud_aws_fondamentaux]] — EC2, S3, VPC, IAM, CLI AWS
+- [[cloud_init]] — configuration au premier démarrage des VMs
 - [[cloud_virtualisation]] — IaaS, PaaS, SaaS
 
 ## Hébergement
