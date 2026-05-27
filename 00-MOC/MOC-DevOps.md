@@ -25,6 +25,7 @@ statut: actif
 - [[README-tests-integration]] — guide intégration
 
 ## Terraform & Déploiement
+- [[terraform_fondamentaux]] — providers, resources, state, workflow
 - [[debian_genericcloud_ssh_password]] — setup VM Debian
 - [[guide_agent_vm_pipeline_clean]] — agent CI dans une VM
 - [[terraform_virtualbox_ova_vs_vdi]] — formats VirtualBox

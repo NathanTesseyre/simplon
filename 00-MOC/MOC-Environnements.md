@@ -37,6 +37,7 @@ statut: actif
 - [[Docker]] — concepts, workflow
 - [[Dockerfile]] — instructions, best practices
 - [[commandes_docker]] — run, build, ps, network, volume
+- [[docker_compose]] — stack multi-conteneurs, volumes, réseaux
 - [[fiche_docker_pas_a_pas]] — guide progressif
 
 ## Hébergement
